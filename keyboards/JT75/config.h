@@ -5,10 +5,9 @@
 
 #define DIODE_DIRECTION COL2ROW
 
-// Split keyboard
+// --- SPLIT SETTINGS (TRRS SERIAL) ---
 #define SPLIT_KEYBOARD
-#define MASTER_LEFT
-
-// Communication between halves (simple serial split)
 #define USE_SERIAL
 #define SOFT_SERIAL_PIN GP1
+
+#define MASTER_LEFT
