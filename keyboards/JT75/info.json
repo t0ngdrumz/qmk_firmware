@@ -1,1 +1,15 @@
-
+{
+  "keyboard_name": "JT75",
+  "manufacturer": "custom",
+  "maintainer": "you",
+  "usb": {
+    "vid": "0xFEED",
+    "pid": "0x75A1",
+    "device_version": "1.0.0"
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": []
+    }
+  }
+}
